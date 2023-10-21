@@ -1,0 +1,41 @@
+body {
+	margin: 0%;
+	padding: 0%;
+	box-sizing: border-box;
+	background-color: #f8f9fa;
+}
+
+.navbar {
+	background-color: #1766b2;
+
+}
+
+.card {
+	border: none;
+	border-radius: 10px;
+	box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-header {
+	background-color: #1766b2;
+	color: white;
+	border-radius: 10px 10px 0 0;
+}
+
+.form-control {
+	border-color: #ced4da;
+}
+
+.form-control:focus {
+	border-color: #1766b2;
+	box-shadow: none;
+}
+
+.btn-primary {
+	background-color: #1766b2;
+	border: none;
+}
+
+.btn-primary:hover {
+	background-color: #0056b3;
+}
